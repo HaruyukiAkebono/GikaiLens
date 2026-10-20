@@ -11,7 +11,7 @@ The project will use parliamentary proceedings made available through the Nation
 
 ## Project Proposal
 
-See [Project Pitch](docs/project-pitch.md) for a more detailed description of the project.
+See [Project Pitch](docs/project_pitch.md) for a more detailed description of the project.
 
 ## Status
 
